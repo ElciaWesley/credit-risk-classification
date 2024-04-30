@@ -15,6 +15,6 @@ Using bulleted lists, describe the accuracy scores and the precision and recall 
 Logistic Regression Model:
 The Logistic Regression model trained on the given dataset accurately classified healthy loans 100% of the time but had an 85% accuracy in predicting non-healthy loans.
 The imbalance of healthy vs non-healthy loan data can lead to mistakes such as classifying non-healthy loans as healthy loans.
-Summary
+## Summary
 The Logistic Regression model using the given dataset performed well but could ultimately lead to inaccurate classifications.
 If you do not recommend any of the models, please justify your reasoning. I would recommemd these models.
